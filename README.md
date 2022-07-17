@@ -1,3 +1,3 @@
 # Chat-Application-Cipher-Schools
 A chat application using React js 
-components are in master branch.
+components named as 'client' and 'server' are in master branch.
